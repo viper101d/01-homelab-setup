@@ -3,13 +3,13 @@ hey this is my homelab-setup
 apps i used 
 
 * virtual box link / https://www.virtualbox.org
-/
+
 
 virtual machines 
 
 * metasploitable link / https://www.rapid7.com/products/metasploit/metasploitable/ 
 * kali linux link / https://www.virtualbox.org
-/
+
 
 brief
 
@@ -20,4 +20,3 @@ why im doing this
 * to learn how to isolate virtual machines in a enclosed network
 * to learn how to attack safely
 * overall experiance 
-/
