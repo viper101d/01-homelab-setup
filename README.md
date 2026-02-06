@@ -8,7 +8,7 @@ apps i used
 virtual machines 
 
 * metasploitable link / https://www.rapid7.com/products/metasploit/metasploitable/ 
-* kali linux link / https://www.virtualbox.org
+* kali linux link / https://www.kali.org/get-kali/#kali-installer-images
 
 
 brief
